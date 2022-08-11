@@ -3,17 +3,23 @@
         {
             "name": "Maitreyi Ramakrishnan Loves Convincing People She's Related to Mindy Kaling | The Tonight Show",
             "url": "https://www.youtube.com/watch?v=AxeY9Ms4wKw",
-            "thumbnail": "https://i.ytimg.com/vi/AxeY9Ms4wKw/maxresdefault.jpg"
-        },
-        {
+            "thumbnail": "https://i.ytimg.com/vi/AxeY9Ms4wKw/maxresdefault.jpg",
+            "type": "video"
+          },
+          {
             "name": "Maitreyi Ramakrishnan Loves Convincing People She's Related to Mindy Kaling | The Tonight Show",
             "url": "https://www.youtube.com/watch?v=AxeY9Ms4wKw",
-            "thumbnail": "https://i.ytimg.com/vi/AxeY9Ms4wKw/maxresdefault.jpg"
-        },
-        {
+            "thumbnail": "https://i.ytimg.com/vi/AxeY9Ms4wKw/maxresdefault.jpg",
+            "type": "video"
+          },
+          {
             "name": "Maitreyi Ramakrishnan Loves Convincing People She's Related to Mindy Kaling | The Tonight Show",
             "url": "https://www.youtube.com/watch?v=AxeY9Ms4wKw",
-            "thumbnail": "https://i.ytimg.com/vi/AxeY9Ms4wKw/maxresdefault.jpg"
-        }
+            "thumbnail": "https://i.ytimg.com/vi/AxeY9Ms4wKw/maxresdefault.jpg",
+            "type": "video"
+          },
+          {
+            "type": "message"
+          }
     ]
 }

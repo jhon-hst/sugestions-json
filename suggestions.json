@@ -1,7 +1,7 @@
 {
     "items": [
         {
-          "name": "The Avengers - I'm Always Angry - Hulk SMASH Scene",
+          "name": "The Avengers - I am Always Angry - Hulk SMASH Scene",
           "url": "https://www.youtube.com/watch?v=udKE1ksKWDE",
           "thumbnail": "https://i.ytimg.com/vi/udKE1ksKWDE/maxresdefault.jpg",
           "type": "video"
@@ -20,6 +20,6 @@
         },
         {
           "type": "message"
-        },
+        }
     ]
 }
